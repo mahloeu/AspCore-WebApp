@@ -8,3 +8,4 @@
 /Users/houssem/Desktop/Linkedin-Learning/AspNetCore-WebApp/obj/Debug/netcoreapp2.0/AspNetCore-WebApp.AssemblyInfo.cs
 /Users/houssem/Desktop/Linkedin-Learning/AspNetCore-WebApp/obj/Debug/netcoreapp2.0/AspNetCore-WebApp.dll
 /Users/houssem/Desktop/Linkedin-Learning/AspNetCore-WebApp/obj/Debug/netcoreapp2.0/AspNetCore-WebApp.pdb
+/Users/houssem/Desktop/Linkedin-Learning/AspNetCore-WebApp/obj/Debug/netcoreapp2.0/AspNetCore-WebApp.csprojResolveAssemblyReference.cache
