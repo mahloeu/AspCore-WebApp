@@ -37,7 +37,6 @@ namespace AspNetCore_WebApp
             }
 
             app.UseStaticFiles();
-
             app.UseMvc();
         }
     }
